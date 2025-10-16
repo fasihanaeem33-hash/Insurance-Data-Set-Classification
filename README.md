@@ -1,1 +1,1 @@
-# Insurance-Data-Set-Classification
+# Insurance-Data-Set-Regression
